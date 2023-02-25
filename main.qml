@@ -71,6 +71,7 @@ ApplicationWindow {
     Label {
         focus: true
         anchors.fill: parent
+        anchors.margins: 10
         horizontalAlignment: Text.AlignHCenter
         verticalAlignment: Text.AlignVCenter
         wrapMode: Text.WordWrap
